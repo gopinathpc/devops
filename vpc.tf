@@ -1,8 +1,3 @@
-provider "aws" {
-  region = "us-east-1"
-  access_key = "AKIAI3S4GAQMRN65H5GA"
-  secret_key = "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"
-}
 
 /* 1) create a vpc
      2)create a gateway and attach to vpc
