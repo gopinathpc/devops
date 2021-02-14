@@ -11,6 +11,7 @@
      10)create a vm in pub subnet 
   
 */
+/* added code in release branch */
 /* Added code from github */
 resource "aws_vpc" "main" {
   cidr_block = "10.0.0.0/24"
