@@ -13,6 +13,7 @@
 */
 /* added code in release branch */
 /* Added code from github */
+/* Added code from github before rebase */
 resource "aws_vpc" "main" {
   cidr_block = "10.0.0.0/24"
 tags = {
